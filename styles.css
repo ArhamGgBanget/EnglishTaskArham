@@ -3,6 +3,7 @@ body {
     margin: 0;
     padding: 0;
     background-color: #323232;
+    color: #ffffff;
 }
 .container {
     max-width: 600px;
@@ -10,10 +11,18 @@ body {
     padding: 20px;
     background-color: #ed412a;
     border-radius: 8px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    box-shadow: 0 0 10px rgb(255, 255, 255);
 }
 h1 {
+    color: #ffffff;
     text-align: center;
+    -webkit-text-stroke-width: 1px;
+    -webkit-text-stroke-color: black
+}
+h4 {
+    color: #ffffff;
+    -webkit-text-stroke-width: 0,5px;
+    -webkit-text-stroke-color: black
 }
 input[type="text"] {
     width: 80%;
