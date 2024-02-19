@@ -445,10 +445,10 @@ var dictionary = [
     { english: "XGBoost", indonesia: "XGBoost" },
     { english: "XML (eXtensible Markup Language)", indonesia: "XML (Bahasa Penandaan yang Dapat Diperluas)" },
     { english: "YAML Ain't Markup Language (YAML)", indonesia: "YAML Bukan Bahasa Penandaan (YAML)" },
-    { english: "Youtube", indonesia: "Youtube" }
-    { english: "Zoo", indonesia: "Kebun Binatang" }
-    { english: "Zoom", indonesia: "Perbesar" }
-    { english: "Zip", indonesia: "Resleting" }
+    { english: "Youtube", indonesia: "Youtube" },
+    { english: "Zoo", indonesia: "Kebun Binatang" },
+    { english: "Zoom", indonesia: "Perbesar" },
+    { english: "Zip", indonesia: "Resleting" },
 
   ];
   
